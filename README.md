@@ -31,23 +31,10 @@ Feel free to reach out if you have questions or collaboration ideas:
 ---
 
 ## 📊 GitHub Stats
-![Treizd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treizd&show_icons=true&theme=tokyonight)
+![Treizd's GitHub stats](https://github-readme-stats.vercel.app/api?username=cont1n3nt&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treizd&layout=compact&theme=tokyonight)](https://github.com/Treizd)
-
----
-
-## 🚀 Featured Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Treizd&repo=aioeasysqlite&show_owner=true&theme=tokyonight)](https://github.com/Treizd/AioEasySqlite)
-
-> **AioEasySqlite** — async-friendly SQLite wrapper designed for simplicity and speed.
-
----
-
-## 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Picsart](https://img.shields.io/badge/Picsart-C209C1?logo=picsart&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cont1n3nt&layout=compact&theme=tokyonight)](https://github.com/Treizd)
 
 ---
 
@@ -55,7 +42,7 @@ Feel free to reach out if you have questions or collaboration ideas:
 If you want to support my work:
 
 - ![TON](https://img.shields.io/badge/TON-0098EA?logo=TON&logoColor=white)  
-  `UQB-7m2USzQ451d9orgD4iECLD0FL_BV-zzk3i--bdRl51ho`
+  `UQCTBmmNO5LZysEJWeBnpjHpvyyMy-YF9C_vreSAh-5qx0uQ`
 
 - ![TRC20](https://img.shields.io/badge/TRC20-50AF95?logo=tether&logoColor=white)  
-  `TUbvCEDE5wpVRsbLmuU8JfkWY4gNcBNbrx`
+  `TY2axHtJkDReuxYjPs9E9NpQrU5f37Qqcy`
