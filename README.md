@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dima
 
-I'm a **Junior–Middle Developer** from Russia 🇷🇺  
+I'm a **Junior+ Developer** from Russia 🇷🇺  
 Currently focused on **AI/ML**, with growing interest in **Cybersecurity** and **Backend**.
 
 ---
