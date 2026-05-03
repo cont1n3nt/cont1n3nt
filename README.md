@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dima
 
-I'm a **Junior+ Developer** from Russia 🇷🇺  
-Currently focused on **AI/ML**, with growing interest in **Cybersecurity** and **Backend**.
+I'm 17 years old and i'm from Russia 🇷🇺  
+Currently focused on **AI/ML**, mostly write on **Python** and also have interest in **Cybersecurity** and **Full stack developing**.
 
 ---
 
