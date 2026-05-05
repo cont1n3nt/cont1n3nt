@@ -21,3 +21,20 @@ Feel free to reach out if you have questions or collaboration ideas:
 ![Backend](https://img.shields.io/badge/Backend-000000)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440)
+
+<table>
+  <tr>
+    <td>
+      <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cont1n3nt&theme=github_dark" />
+    </td>
+    <td>
+      <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cont1n3nt&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,S,SS,SSS,SECRET" alt="Markdown"/>
+  </a>
+</p>
