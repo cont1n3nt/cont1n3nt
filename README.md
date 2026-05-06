@@ -35,6 +35,6 @@ Feel free to reach out if you have questions or collaboration ideas:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,S,SS,SSS,SECRET" alt="Markdown"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=cont1n3nt&theme=nord&no-bg=true&no-frame=true" alt="Markdown"/>
   </a>
 </p>
