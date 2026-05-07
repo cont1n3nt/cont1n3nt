@@ -25,7 +25,7 @@ Feel free to reach out if you have questions or collaboration ideas:
 <table>
   <tr>
     <td>
-      <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cont1n3nt&theme=github_dark" />
+      <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cont1n3nt&theme=github_dark" />
     </td>
     <td>
       <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cont1n3nt&theme=github_dark" />
