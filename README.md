@@ -18,7 +18,7 @@ Feel free to reach out if you have questions or collaboration ideas:
       <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cont1n3nt&theme=github_dark" />
     </td>
     <td>
-      <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cont1n3nt&theme=github_dark" />
+      <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cont1n3nt&theme=github_dark" />
     </td>
   </tr>
 </table>
